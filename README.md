@@ -1,4 +1,5 @@
-# Easy and funny calculator - is a utility allows you to calculate numbers really don't know what for but if you need it then ok, I would like to apologize in advance for the bad words :)
+# Easy and funny calculator
+Easy and funny calculator - is a utility allows you to calculate numbers really don't know what for but if you need it then ok, I would like to apologize in advance for the bad words :)
 
 # Utility calculator
 Gives you the ability to calculate numbers I don't know what for.
