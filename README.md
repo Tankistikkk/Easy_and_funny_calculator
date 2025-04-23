@@ -5,8 +5,8 @@ Easy and funny calculator - is a utility allows you to calculate numbers really 
 Gives you the ability to calculate numbers I don't know what for.
 
 # License
-The project is distributed under **proprietary license.**
+The project is distributed under **own license**.
 
-Copying, modification or commercial use of this code is strictly prohibited without prior written permission of the author.
+Copying, modification or commercial use of this code is strictly prohibited without prior written permission from the author.
 
 Unauthorized use of this software may result in legal consequences.
